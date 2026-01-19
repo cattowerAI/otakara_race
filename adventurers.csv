@@ -1,4 +1,4 @@
-﻿cid,name,ATK,HP,type,skill,Skill_Usage_Count,features
+cid,name,ATK,HP,type,skill,Skill_Usage_Count,features
 c1,勇者,5,12,,【会心】,無限,会心の一撃。戦闘時のダイスの合計値が2倍される
 c2,ネクロマンサー,2,8,,【死霊術】,1,墓場にあるモンスターカードを選択。指定されたプレイヤーはそのモンスターと戦う。
 c3,召喚士,2,8,,【召喚】,1,山札の上から順にモンスターをサーチ。指定されたプレイヤーはそのモンスターと戦う。
